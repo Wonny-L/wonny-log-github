@@ -1,7 +1,7 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://wonny-l.github.io/wonny-log/'
 
 module.exports = {
   siteMetadata: {
@@ -28,12 +28,14 @@ module.exports = {
     ],
     author: {
       name: 'Wonny',
-      email: '#',
+      email: 'maestro.wh@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'wonny-l',
       rss: '#',
       vk: '#',
+      instagram: '2Wonny_',
+      linkedin: 'wonhee-lee-36697471'
     },
   },
   plugins: [

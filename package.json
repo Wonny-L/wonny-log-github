@@ -21,8 +21,7 @@
     "theme",
     "starter"
   ],
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
-  "license": "MIT",
+  "author": "Wonny Lee <maestro.wh@gmail.com>",
   "dependencies": {
     "bluebird": "^3.5.1",
     "gatsby": "^2.0.22",
