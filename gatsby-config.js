@@ -11,19 +11,11 @@ module.exports = {
     subtitle:
       'abcd',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'wonny-log',
     menu: [
       {
         label: 'Articles',
         path: '/',
-      },
-      {
-        label: 'About me',
-        path: '/about/',
-      },
-      {
-        label: 'Contact me',
-        path: '/contact/',
       },
     ],
     author: {
